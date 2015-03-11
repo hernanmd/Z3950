@@ -1,0 +1,14 @@
+{
+	"category" : "YAZ-PQF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"valueString" ],
+	"name" : "PQFStringNode",
+	"pools" : [
+		 ],
+	"super" : "PQFTerminalNode",
+	"type" : "normal" }

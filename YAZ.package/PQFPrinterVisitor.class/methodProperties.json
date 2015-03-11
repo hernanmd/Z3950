@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"print:" : "hfm 9/29/2009 23:33" },
+	"instance" : {
+		"printOn:" : "hfm 10/8/2009 19:45",
+		"stream" : "hfm 9/29/2009 23:33",
+		"stream:" : "hfm 9/29/2009 23:33",
+		"visit:" : "hfm 9/29/2009 23:30",
+		"visitAndNode:" : "hfm 10/9/2009 20:48",
+		"visitAttrSimpleNode:" : "hfm 9/29/2009 22:20",
+		"visitAttrSpecNode:" : "hfm 10/8/2009 19:48",
+		"visitComplexNode:" : "hfm 10/8/2009 20:44",
+		"visitNotNode:" : "hfm 10/9/2009 20:48",
+		"visitOperatorNode:" : "hfm 9/29/2009 22:16",
+		"visitOrNode:" : "hfm 10/9/2009 20:49",
+		"visitProximityNode:" : "hfm 10/9/2009 21:07",
+		"visitResultSetNode:" : "hfm 10/8/2009 19:27",
+		"visitSimpleNode:" : "hfm 10/8/2009 13:47",
+		"visitStringNode:" : "hfm 10/8/2009 20:33",
+		"visitTermNode:" : "hfm 10/8/2009 19:28",
+		"visitTermTypeNode:" : "hfm 10/8/2009 19:29",
+		"visitTopNode:" : "hfm 10/1/2009 18:15",
+		"visitTopSetNode:" : "hfm 10/8/2009 19:28" } }

@@ -1,0 +1,1 @@
+Library which implements an interface for decoding MARC records

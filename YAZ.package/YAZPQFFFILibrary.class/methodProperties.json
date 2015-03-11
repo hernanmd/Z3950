@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"createParser" : "HernanMoralesDurand 2/2/2014 18:28",
+		"destroyParser:" : "HernanMoralesDurand 2/2/2014 18:28",
+		"getError:message:offset:" : "HernanMoralesDurand 2/2/2014 18:28",
+		"parseQuery:odr:query:" : "HernanMoralesDurand 2/2/2014 18:28" } }

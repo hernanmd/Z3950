@@ -1,0 +1,1 @@
+This is a node type which can be recursive (his child is a non terminal in BNF)

@@ -1,0 +1,14 @@
+{
+	"category" : "YAZ-PQF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stream" ],
+	"name" : "PQFPrinterVisitor",
+	"pools" : [
+		 ],
+	"super" : "PQFVisitor",
+	"type" : "normal" }

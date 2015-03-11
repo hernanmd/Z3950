@@ -1,0 +1,14 @@
+{
+	"category" : "YAZ-PQF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hfm 10/16/2009 08:07",
+	"instvars" : [
+		 ],
+	"name" : "PQFObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

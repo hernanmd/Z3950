@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"createHandler" : "HernanMoralesDurand 2/2/2014 18:28",
+		"decodeAsHumanReadableUsing:" : "hfm 10/9/2009 21:42",
+		"decodeAsISO2709Using:" : "hfm 10/9/2009 21:43",
+		"decodeAsMarcXMLUsing:" : "hfm 10/9/2009 21:42",
+		"decodeAsOAIMarcUsing:" : "hfm 10/9/2009 21:43",
+		"decodeAsSimpleXMLUsing:" : "hfm 10/9/2009 21:43",
+		"decodeAsXChangeUsing:" : "hfm 10/9/2009 21:44",
+		"decodeBufferUsing:in:size:putResultsIn:ofSize:" : "HernanMoralesDurand 2/2/2014 18:28",
+		"decodeUsing:format:" : "HernanMoralesDurand 2/2/2014 18:28",
+		"destroyHandler" : "HernanMoralesDurand 2/2/2014 18:28" } }

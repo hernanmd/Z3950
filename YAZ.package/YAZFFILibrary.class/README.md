@@ -1,0 +1,1 @@
+Abstract class with common behavior for YAZ FFI libraries

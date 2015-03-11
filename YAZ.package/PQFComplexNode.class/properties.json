@@ -1,0 +1,15 @@
+{
+	"category" : "YAZ-PQF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"operator",
+		"additionalNonTerminal" ],
+	"name" : "PQFComplexNode",
+	"pools" : [
+		 ],
+	"super" : "PQFNonTerminalNode",
+	"type" : "normal" }

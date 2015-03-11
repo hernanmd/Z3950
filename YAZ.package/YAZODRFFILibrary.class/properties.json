@@ -1,0 +1,14 @@
+{
+	"category" : "YAZ-FFI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hfm 9/2/2009 10:26",
+	"instvars" : [
+		 ],
+	"name" : "YAZODRFFILibrary",
+	"pools" : [
+		 ],
+	"super" : "YAZFFILibrary",
+	"type" : "normal" }

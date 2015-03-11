@@ -1,0 +1,19 @@
+{
+	"category" : "YAZ-PQF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"distance",
+		"ordered",
+		"relation",
+		"whichCode",
+		"unitCode",
+		"exclusion" ],
+	"name" : "PQFProximityNode",
+	"pools" : [
+		 ],
+	"super" : "PQFNonTerminalNode",
+	"type" : "normal" }

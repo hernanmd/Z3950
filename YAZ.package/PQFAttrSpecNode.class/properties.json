@@ -1,0 +1,15 @@
+{
+	"category" : "YAZ-PQF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hfm 10/8/2009 19:08",
+	"instvars" : [
+		"optionalString",
+		"attributeString" ],
+	"name" : "PQFAttrSpecNode",
+	"pools" : [
+		 ],
+	"super" : "PQFNonTerminalNode",
+	"type" : "normal" }

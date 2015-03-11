@@ -1,0 +1,1 @@
+This is a node type which is a leaf in the PQF BNF

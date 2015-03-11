@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"createForDecoding" : "hfm 9/2/2009 11:45",
+		"createForEncoding" : "hfm 9/2/2009 11:44",
+		"createForPrinting" : "hfm 9/2/2009 11:46",
+		"odrCreate:" : "HernanMoralesDurand 2/2/2014 18:03",
+		"odrDestroy:" : "HernanMoralesDurand 2/2/2014 18:27",
+		"odrGetError:" : "HernanMoralesDurand 2/2/2014 18:28",
+		"odrPerror:output:" : "HernanMoralesDurand 2/2/2014 18:28" } }

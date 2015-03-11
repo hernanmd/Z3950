@@ -1,0 +1,1 @@
+Root abstract class for the nodes of the PQF used by the PQF visitor. Please refer to the PQF BNF for a complete documentation, this is found in the YAZ User's Guide and Reference.

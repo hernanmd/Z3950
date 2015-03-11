@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"acceptPQFVisitor:" : "hfm 9/30/2009 00:42",
+		"beDateTime" : "hfm 10/8/2009 19:31",
+		"beGeneral" : "hfm 10/8/2009 19:31",
+		"beNull" : "hfm 10/8/2009 19:31",
+		"beNumeric" : "hfm 10/8/2009 19:31",
+		"beOid" : "hfm 10/8/2009 19:31",
+		"beString" : "hfm 10/8/2009 19:31",
+		"identifier" : "hfm 10/9/2009 21:01",
+		"type" : "hfm 10/9/2009 21:02",
+		"type:" : "hfm 9/29/2009 23:36" } }

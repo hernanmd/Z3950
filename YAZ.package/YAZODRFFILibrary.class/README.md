@@ -1,0 +1,1 @@
+ODR may be used in any context where basic ASN.1/BER representation are used. This API uses the PDUs that are already provided with YAZ

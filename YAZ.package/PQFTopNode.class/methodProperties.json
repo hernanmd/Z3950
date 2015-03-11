@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"acceptPQFVisitor:" : "hfm 10/1/2009 18:25",
+		"attributeList:nonTerminal:" : "hfm 10/20/2009 03:06",
+		"dateTimeTermQuery:" : "hfm 10/8/2009 18:25",
+		"generalTermQuery:" : "hfm 12/5/2010 12:47",
+		"numericTermQuery:" : "hfm 10/8/2009 18:25",
+		"oidTermQuery:" : "hfm 10/8/2009 18:28",
+		"resultSet:" : "hfm 10/8/2009 17:12",
+		"stringTermQuery:" : "hfm 10/8/2009 18:52",
+		"topSet" : "hfm 10/1/2009 18:45",
+		"topSet:" : "hfm 10/1/2009 18:14" } }

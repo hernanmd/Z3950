@@ -1,0 +1,14 @@
+{
+	"category" : "YAZ-PQF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hfm 10/9/2009 21:55",
+	"instvars" : [
+		 ],
+	"name" : "PQFTerminalNode",
+	"pools" : [
+		 ],
+	"super" : "PQFObject",
+	"type" : "normal" }
