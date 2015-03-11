@@ -1,0 +1,14 @@
+{
+	"category" : "Z3950-Data",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hfm 5/2/2009 16:36",
+	"instvars" : [
+		 ],
+	"name" : "Z3950LocalServerInfo",
+	"pools" : [
+		 ],
+	"super" : "Z3950ServerInfo",
+	"type" : "normal" }

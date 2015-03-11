@@ -1,0 +1,1 @@
+Most MARC21 records uses the MARC-8 character set encoding

@@ -1,0 +1,14 @@
+{
+	"category" : "Z3950-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hfm 9/2/2009 00:24",
+	"instvars" : [
+		"client" ],
+	"name" : "Z3950Connection",
+	"pools" : [
+		 ],
+	"super" : "Z3950Object",
+	"type" : "normal" }

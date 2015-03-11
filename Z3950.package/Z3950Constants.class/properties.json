@@ -1,0 +1,14 @@
+{
+	"category" : "Z3950-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Z3950Constants",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

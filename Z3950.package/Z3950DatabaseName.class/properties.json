@@ -1,0 +1,14 @@
+{
+	"category" : "Z3950-Databases",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hfm 5/4/2009 14:10",
+	"instvars" : [
+		 ],
+	"name" : "Z3950DatabaseName",
+	"pools" : [
+		 ],
+	"super" : "Z3950Constants",
+	"type" : "normal" }

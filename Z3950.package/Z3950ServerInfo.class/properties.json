@@ -1,0 +1,18 @@
+{
+	"category" : "Z3950-Data",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hfm 5/2/2009 16:30",
+	"instvars" : [
+		"institutionName",
+		"hostName",
+		"port",
+		"databases",
+		"format" ],
+	"name" : "Z3950ServerInfo",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

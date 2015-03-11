@@ -1,0 +1,14 @@
+{
+	"category" : "Z3950-Options",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hfm 9/1/2009 20:10",
+	"instvars" : [
+		 ],
+	"name" : "Z3950RecordMARC21Type",
+	"pools" : [
+		 ],
+	"super" : "Z3950RecordCharsetType",
+	"type" : "normal" }

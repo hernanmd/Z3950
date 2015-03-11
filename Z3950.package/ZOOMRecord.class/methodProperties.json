@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"fields" : "hfm 3/31/2009 06:08",
+		"initialize" : "hfm 2/25/2009 20:14" },
+	"instance" : {
+		"diagDetails" : "HernanMoralesDurand 3/11/2015 11:22",
+		"diagDetails:" : "HernanMoralesDurand 3/11/2015 11:22",
+		"diagMessage" : "HernanMoralesDurand 3/11/2015 11:22",
+		"diagMessage:" : "HernanMoralesDurand 3/11/2015 11:22",
+		"diagSet" : "HernanMoralesDurand 3/11/2015 11:22",
+		"diagSet:" : "HernanMoralesDurand 3/11/2015 11:22",
+		"diagUri" : "HernanMoralesDurand 3/11/2015 11:22",
+		"diagUri:" : "HernanMoralesDurand 3/11/2015 11:22",
+		"iconvBuffer" : "hfm 3/31/2009 11:54",
+		"iconvBuffer:" : "hfm 3/31/2009 11:54",
+		"marcBuffer" : "hfm 3/31/2009 11:54",
+		"marcBuffer:" : "hfm 3/31/2009 11:54",
+		"odr" : "hfm 3/5/2009 19:20",
+		"odr:" : "hfm 3/5/2009 19:20",
+		"opacBuffer" : "hfm 3/31/2009 11:54",
+		"opacBuffer:" : "hfm 3/31/2009 11:54",
+		"schema" : "HernanMoralesDurand 3/11/2015 11:22",
+		"schema:" : "HernanMoralesDurand 3/11/2015 11:22",
+		"value" : "hfm 3/5/2009 19:45",
+		"value:" : "hfm 3/5/2009 19:45",
+		"zNamePlusRecord" : "HernanMoralesDurand 3/11/2015 11:22",
+		"zNamePlusRecord:" : "HernanMoralesDurand 3/11/2015 11:22" } }

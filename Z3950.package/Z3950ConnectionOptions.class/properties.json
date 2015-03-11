@@ -1,0 +1,14 @@
+{
+	"category" : "Z3950-Options",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hfm 9/1/2009 15:58",
+	"instvars" : [
+		"serverObject" ],
+	"name" : "Z3950ConnectionOptions",
+	"pools" : [
+		 ],
+	"super" : "Z3950Options",
+	"type" : "normal" }

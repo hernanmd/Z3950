@@ -1,0 +1,17 @@
+{
+	"category" : "Z3950-Options",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hfm 9/2/2009 00:03",
+	"instvars" : [
+		"default",
+		"description",
+		"values",
+		"value" ],
+	"name" : "Z3950Option",
+	"pools" : [
+		 ],
+	"super" : "Z3950Object",
+	"type" : "normal" }

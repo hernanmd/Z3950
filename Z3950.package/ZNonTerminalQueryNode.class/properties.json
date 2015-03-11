@@ -1,0 +1,14 @@
+{
+	"category" : "Z3950-APT",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ZNonTerminalQueryNode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

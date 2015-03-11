@@ -1,0 +1,14 @@
+{
+	"category" : "Z3950-Options",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Z3950RecordRenderType",
+	"pools" : [
+		 ],
+	"super" : "Z3950RecordSourceType",
+	"type" : "normal" }

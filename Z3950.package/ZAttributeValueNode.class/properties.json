@@ -1,0 +1,14 @@
+{
+	"category" : "Z3950-APT",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"typeValue" ],
+	"name" : "ZAttributeValueNode",
+	"pools" : [
+		 ],
+	"super" : "ZQueryNode",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Z3950-Attributes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hfm 10/19/2009 20:05",
+	"instvars" : [
+		 ],
+	"name" : "Z3950Attribute",
+	"pools" : [
+		 ],
+	"super" : "Association",
+	"type" : "normal" }

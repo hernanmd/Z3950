@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"newWith:" : "hfm 6/12/2010 15:53",
+		"newWithDefaults" : "hfm 11/24/2009 16:23",
+		"optionsMap" : "hfm 11/24/2009 16:18" },
+	"instance" : {
+		"optionAt:" : "hfm 6/12/2010 21:55",
+		"optionAt:ifAbsent:" : "hfm 6/12/2010 21:55",
+		"optionAt:ifAbsentPut:" : "hfm 6/12/2010 21:55",
+		"optionAt:ifPresent:" : "hfm 6/12/2010 21:56",
+		"optionAt:put:" : "hfm 6/12/2010 21:56",
+		"optionDefaultAt:" : "hfm 6/12/2010 18:26",
+		"optionDefaultAt:ifAbsent:" : "hfm 6/12/2010 18:27",
+		"optionValueAt:" : "hfm 6/12/2010 18:23",
+		"optionValueAt:ifAbsent:" : "hfm 6/12/2010 18:24",
+		"optionValueAt:ifAbsentPut:" : "hfm 6/12/2010 18:24",
+		"optionValueAt:ifPresent:" : "hfm 6/12/2010 18:25",
+		"options" : "hfm 6/12/2010 21:55",
+		"options:" : "hfm 3/29/2010 04:10" } }

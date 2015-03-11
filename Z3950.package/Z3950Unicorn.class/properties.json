@@ -1,0 +1,14 @@
+{
+	"category" : "Z3950-Databases",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Z3950Unicorn",
+	"pools" : [
+		 ],
+	"super" : "Z3950DatabaseName",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+An attribute according to PQF/RPN semantics, contained by an Z3950AttributeSet in its attribute map. You don't need to create instances of this class manually, all of them live in the class side of each attribute set.

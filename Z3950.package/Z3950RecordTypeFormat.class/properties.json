@@ -1,0 +1,14 @@
+{
+	"category" : "Z3950-RecordFormats",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Z3950RecordTypeFormat",
+	"pools" : [
+		 ],
+	"super" : "Z3950Constants",
+	"type" : "normal" }

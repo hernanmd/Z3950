@@ -1,0 +1,14 @@
+{
+	"category" : "Z3950-Attributes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"attributeSets" ],
+	"name" : "Z3950AttributeCollection",
+	"pools" : [
+		 ],
+	"super" : "Z3950Object",
+	"type" : "normal" }

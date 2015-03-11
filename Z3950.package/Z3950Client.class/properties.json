@@ -1,0 +1,18 @@
+{
+	"category" : "Z3950-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hfm 9/2/2009 00:22",
+	"instvars" : [
+		"connection",
+		"connectionOptions",
+		"resultSetOptions",
+		"typeFormOptions",
+		"history" ],
+	"name" : "Z3950Client",
+	"pools" : [
+		 ],
+	"super" : "Z3950Object",
+	"type" : "normal" }

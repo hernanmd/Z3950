@@ -1,0 +1,1 @@
+A superclass for common Z39.50 databases

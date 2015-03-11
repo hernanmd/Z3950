@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"connection" : "hfm 9/2/2009 00:22",
+		"connection:" : "hfm 9/1/2009 21:40",
+		"connectionOptions" : "hfm 9/1/2009 23:28",
+		"connectionOptions:" : "hfm 9/1/2009 21:59",
+		"defaultConnectionOptions" : "hfm 9/2/2009 18:19",
+		"defaultResultSetOptions" : "hfm 9/1/2009 23:28",
+		"defaultTypeFormOptions" : "hfm 9/2/2009 17:38",
+		"history" : "hfm 9/1/2009 21:40",
+		"history:" : "hfm 9/1/2009 21:40",
+		"hostName" : "hfm 9/1/2009 21:56",
+		"options" : "hfm 6/12/2010 18:00",
+		"port" : "hfm 9/1/2009 21:55",
+		"query:" : "hfm 12/5/2010 14:09",
+		"resultSetOptions" : "hfm 9/1/2009 23:29",
+		"resultSetOptions:" : "hfm 9/1/2009 21:59",
+		"server:" : "hfm 6/12/2010 15:54",
+		"typeFormOptions" : "hfm 9/1/2009 23:30",
+		"typeFormOptions:" : "hfm 9/1/2009 21:59",
+		"validate:" : "hfm 3/29/2010 04:02" } }

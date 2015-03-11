@@ -1,0 +1,15 @@
+{
+	"category" : "Z3950-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"querySelector",
+		"pqfTranslator" ],
+	"name" : "Z3950Query",
+	"pools" : [
+		 ],
+	"super" : "Z3950Options",
+	"type" : "normal" }

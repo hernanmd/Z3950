@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"newFrom:" : "hfm 9/2/2009 00:23" },
+	"instance" : {
+		"client" : "hfm 3/29/2010 04:06",
+		"configureConnectionOptions" : "hfm 6/12/2010 19:21",
+		"initializeWith:" : "hfm 9/2/2009 00:24",
+		"library" : "hfm 9/1/2009 22:02",
+		"query:" : "hfm 12/5/2010 14:10",
+		"query:from:" : "hfm 6/14/2010 00:18",
+		"scanResultSet:" : "hfm 9/2/2009 17:37" } }

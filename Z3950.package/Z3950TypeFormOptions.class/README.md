@@ -1,0 +1,1 @@
+Support for the type parameter in the ZOOM_record_get function

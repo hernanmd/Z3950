@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"new" : "hfm 5/4/2009 14:08" },
+	"instance" : {
+		"addServersFrom:" : "HernanMoralesDurand 2/2/2014 18:52",
+		"anyOne" : "hfm 5/4/2009 19:17",
+		"createServer:port:database:format:institution:" : "hfm 5/4/2009 13:49",
+		"currentServers" : "HernanMoralesDurand 2/2/2014 18:50",
+		"currentServersNames" : "hfm 6/12/2010 04:59",
+		"identifyInstitutionalName:" : "HernanMoralesDurand 8/4/2012 17:57",
+		"initialize" : "hfm 5/4/2009 14:07",
+		"newTextParserOn:" : "HernanMoralesDurand 2/2/2014 18:42",
+		"readServersInfo" : "HernanMoralesDurand 2/2/2014 18:45",
+		"serverAt:" : "hfm 3/29/2010 03:19",
+		"serverNames" : "hfm 11/26/2009 21:19",
+		"servers" : "hfm 5/4/2009 17:32",
+		"servers:" : "hfm 5/4/2009 14:07" } }

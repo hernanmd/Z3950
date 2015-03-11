@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"defaultAsync" : "hfm 9/1/2009 18:18",
+		"defaultCharset" : "hfm 9/1/2009 18:18",
+		"defaultDatabaseName" : "hfm 3/29/2010 03:34",
+		"defaultDatabaseName:" : "hfm 6/12/2010 16:01",
+		"defaultHost" : "hfm 6/12/2010 15:44",
+		"defaultInitOptPresent" : "hfm 9/1/2009 18:23",
+		"defaultInitOptSearch" : "hfm 9/1/2009 18:23",
+		"defaultLang" : "hfm 9/1/2009 18:18",
+		"defaultLargeSetLowerBound" : "hfm 9/1/2009 18:18",
+		"defaultMaximumRecordSize" : "hfm 3/29/2010 03:33",
+		"defaultMediumSetElementSetName" : "hfm 9/1/2009 18:21",
+		"defaultMediumSetPresentNumber" : "hfm 9/1/2009 18:22",
+		"defaultPiggyBack" : "hfm 9/1/2009 18:19",
+		"defaultPreferredMessageSize" : "hfm 3/29/2010 03:34",
+		"defaultServerImplementationId" : "hfm 9/1/2009 18:19",
+		"defaultServerImplementationVersion" : "hfm 9/1/2009 18:19",
+		"defaultSmallSetElementSetName" : "hfm 9/1/2009 18:20",
+		"defaultSmallSetUpperBound" : "hfm 9/1/2009 18:19",
+		"defaultTargetImplementationName" : "hfm 9/1/2009 18:19",
+		"options" : "hfm 6/12/2010 18:14" },
+	"instance" : {
+		"hostName" : "hfm 6/12/2010 15:45",
+		"initializeWith:" : "hfm 6/12/2010 16:01",
+		"initializeWithDefaults" : "hfm 9/2/2009 18:24",
+		"port" : "hfm 6/12/2010 15:46" } }

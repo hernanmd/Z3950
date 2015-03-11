@@ -1,0 +1,14 @@
+{
+	"category" : "Z3950-Options",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hfm 9/1/2009 19:42",
+	"instvars" : [
+		 ],
+	"name" : "Z3950TypeFormOptions",
+	"pools" : [
+		 ],
+	"super" : "Z3950Options",
+	"type" : "normal" }

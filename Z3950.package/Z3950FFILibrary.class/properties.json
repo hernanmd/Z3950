@@ -1,0 +1,14 @@
+{
+	"category" : "Z3950-FFI",
+	"classinstvars" : [
+		"default" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hfm 5/4/2009 13:25",
+	"instvars" : [
+		 ],
+	"name" : "Z3950FFILibrary",
+	"pools" : [
+		 ],
+	"super" : "ExternalLibrary",
+	"type" : "normal" }

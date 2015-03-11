@@ -1,0 +1,1 @@
+This is the an interface to a Z39.50 connection, uses directly the ZOOM FFI binding.

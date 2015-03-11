@@ -1,0 +1,9 @@
+SystemOrganization addCategory: #Z3950!
+SystemOrganization addCategory: 'Z3950-APT'!
+SystemOrganization addCategory: 'Z3950-Attributes'!
+SystemOrganization addCategory: 'Z3950-Core'!
+SystemOrganization addCategory: 'Z3950-Data'!
+SystemOrganization addCategory: 'Z3950-Databases'!
+SystemOrganization addCategory: 'Z3950-FFI'!
+SystemOrganization addCategory: 'Z3950-Options'!
+SystemOrganization addCategory: 'Z3950-RecordFormats'!
