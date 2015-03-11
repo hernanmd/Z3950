@@ -1,0 +1,1 @@
+These tests must be executed against a Z39.50 server running in local host, otherwise will fail.

@@ -1,0 +1,14 @@
+{
+	"category" : "Z3950Tests-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Z3950FFIServerLibraryTest",
+	"pools" : [
+		 ],
+	"super" : "Z3950FFILibraryTest",
+	"type" : "normal" }

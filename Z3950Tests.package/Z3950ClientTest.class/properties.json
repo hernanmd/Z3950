@@ -1,0 +1,14 @@
+{
+	"category" : "Z3950Tests-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Z3950ClientTest",
+	"pools" : [
+		 ],
+	"super" : "Z3950TestCase",
+	"type" : "normal" }

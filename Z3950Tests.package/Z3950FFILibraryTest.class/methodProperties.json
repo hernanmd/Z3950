@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"presetAuthorSearch1" : "hfm 4/5/2009 02:47",
+		"testClientName" : "hfm 8/29/2009 02:59",
+		"testConnectionCreate" : "hfm 4/25/2009 17:29",
+		"testConnectionDestroy" : "hfm 4/25/2009 17:31",
+		"testConnectionIsIdle" : "hfm 4/25/2009 17:29",
+		"testConnectionSetOptions1" : "hfm 4/25/2009 17:30",
+		"testConnectionSetOptions2" : "hfm 4/25/2009 17:30",
+		"testCreateOptions" : "hfm 4/25/2009 17:15",
+		"testDiagSet" : "hfm 4/25/2009 17:02",
+		"testPackageCreate" : "hfm 4/25/2009 18:15",
+		"testPackageDestroy" : "hfm 4/25/2009 18:35",
+		"testPackageSetOptions" : "hfm 4/25/2009 18:31",
+		"testQueryDestroy" : "hfm 12/5/2010 13:11",
+		"testZFreeLibrary" : "hfm 4/25/2009 16:04" } }
